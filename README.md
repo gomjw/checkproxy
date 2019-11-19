@@ -8,7 +8,7 @@
 ## Install
 
 ```console
-go get -u github.com/gomjw/checkproxy
+go get -u github.com/gomjw/checkproxy/...
 ```
 
 ## Import
